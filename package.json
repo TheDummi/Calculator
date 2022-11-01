@@ -1,0 +1,22 @@
+{
+	"name": "calculator",
+	"version": "1.0.0",
+	"description": "A plain JavaScript Calculator.",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"test": "echo Dummi?"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TheDummi/calculator.git"
+	},
+	"author": "Dummi",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/TheDummi/calculator/issues"
+	},
+	"homepage": "https://github.com/TheDummi/calculator#readme"
+}
